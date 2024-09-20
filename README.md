@@ -1,1 +1,1 @@
-"# my-pwd-gen" 
+# my-pwd-gen
