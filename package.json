@@ -1,0 +1,22 @@
+{
+  "name": "mypwdgen",
+  "version": "0.0.1",
+  "description": "Super Password Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reisinger69/my-pwd-gen.git"
+  },
+  "keywords": [
+    "password"
+  ],
+  "author": "reisbert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reisinger69/my-pwd-gen/issues"
+  },
+  "homepage": "https://github.com/reisinger69/my-pwd-gen#readme"
+}
